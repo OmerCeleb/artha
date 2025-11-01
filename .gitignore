@@ -9,3 +9,11 @@ yarn-error.log*
 .pnp.js
 
 .vscode/*
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
